@@ -1,5 +1,6 @@
 To run this project:
 
 1. Checkout to local
-2. Use JDK 15 to compile.
-3.
+2. Use JDK 11+ to compile.
+3. Run with the below command:
+    java -cp <classpath> org.example.textscanning.TextScanningMain <path to input file>
